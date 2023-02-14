@@ -80,7 +80,7 @@ function ChoiceComponent({selectedId}) {
                      </Fragment>
                      
                     ))}   
-                    {showContent ? <Button onClick={handleButtonClick} style={{position: "absolute", top: "90%"}} variant="contained">Next</Button> : null}
+                    {showContent ? <Button onClick={handleButtonClick} style={{position: "absolute", top: "100%"}} variant="contained">Next</Button> : null}
                 </Box> : <img src={require("../images/bye.gif")} alt="bye"/>}
             </Container>
     )
