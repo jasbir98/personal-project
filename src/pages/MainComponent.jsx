@@ -20,7 +20,7 @@ function MainComponent() {
         <div style={{backgroundImage: `url(${backgroundImage})`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover'}}>
             <Container maxWidth="lg" sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column'}}>
                 <h1 style={{fontFamily: "fantasy"}}>{header}</h1>
-                {selectedId === -1 ? <img src={require("../images/welcome.gif")} alt="photo" style={{maxHeight: "170px", position: "absolute", top: "25%"}}/> : null}
+                {/* {selectedId === -1 ? <img src={require("../images/welcome.gif")} alt="photo" style={{maxHeight: "170px", position: "absolute", top: "25%"}}/> : null} */}
                 <h1 style={{fontFamily: "fantasy"}}>Let's get Started...</h1>
                 <Box sx={{ flexGrow: 1, height: "100vh", display: 'flex', alignItems: 'center', justifyContent: "center", width: '100%'}}>
                     {selectedId === -1 ?
