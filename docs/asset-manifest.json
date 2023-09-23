@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/personal-project/static/css/main.e6c13ad2.css",
-    "main.js": "/personal-project/static/js/main.7f420c9c.js",
+    "main.css": "/personal-project/static/css/main.c379d32a.css",
+    "main.js": "/personal-project/static/js/main.a4be0579.js",
     "static/js/787.72d516c7.chunk.js": "/personal-project/static/js/787.72d516c7.chunk.js",
-    "static/media/yourchoice.jpg": "/personal-project/static/media/yourchoice.7a67c9a3ff951b289bd3.jpg",
     "static/media/bye.gif": "/personal-project/static/media/bye.44691fbeda3099fa868b.gif",
-    "static/media/jasbir.png": "/personal-project/static/media/jasbir.133314b335fd7c1061d6.png",
     "static/media/hugs.jpg": "/personal-project/static/media/hugs.bd9f373ded44efb90857.jpg",
+    "static/media/background.jpeg": "/personal-project/static/media/background.fa5f7c83797f0248c7c0.jpeg",
     "static/media/cafe.jpg": "/personal-project/static/media/cafe.4230aa5731cc64e8e66d.jpg",
     "static/media/sad.gif": "/personal-project/static/media/sad.a4fe1678020fcea2dfa6.gif",
-    "static/media/bandstand.jpeg": "/personal-project/static/media/bandstand.950de125980a5ca67ecd.jpeg",
-    "static/media/mychoice.jpg": "/personal-project/static/media/mychoice.8ae5a4248c51bd9328ec.jpg",
     "static/media/fine-dine.jpg": "/personal-project/static/media/fine-dine.3d2794dc83c9f6633434.jpg",
-    "static/media/alcohol.jpg": "/personal-project/static/media/alcohol.bbbe370d2d89f48de037.jpg",
-    "static/media/nonalcohol.jpg": "/personal-project/static/media/nonalcohol.dd1fd2ff78d83b862e3d.jpg",
-    "static/media/dinky.png": "/personal-project/static/media/dinky.d4d31e741ddb7117cbce.png",
+    "static/media/hayley.png": "/personal-project/static/media/hayley.229a5c397af572365fc1.png",
     "static/media/happy.webp": "/personal-project/static/media/happy.a9cb60981948e6087fa3.webp",
     "static/media/unknown.avif": "/personal-project/static/media/unknown.fdeb5f4ba37eafe6c300.avif",
-    "static/media/background.png": "/personal-project/static/media/background.2f89d3d8e59de009cd01.png",
-    "static/media/carterroad.jpeg": "/personal-project/static/media/carterroad.ce0ee52c08541c5e011e.jpeg",
+    "static/media/karaoke.webp": "/personal-project/static/media/karaoke.37060bb29cd0a2c35628.webp",
+    "static/media/jasbir.jpeg": "/personal-project/static/media/jasbir.273c98ff60703b1a4c16.jpeg",
+    "static/media/chocolates.webp": "/personal-project/static/media/chocolates.7938fa963da1e402ee13.webp",
+    "static/media/ballroom.jpeg": "/personal-project/static/media/ballroom.a389f549521966d6a4b5.jpeg",
+    "static/media/sainsbury.png": "/personal-project/static/media/sainsbury.0d7d774757d0e03d41ca.png",
+    "static/media/tesco.jpeg": "/personal-project/static/media/tesco.0b75cb5c08f7a2d957b1.jpeg",
+    "static/media/flowers.jpeg": "/personal-project/static/media/flowers.477685aeb125db5966a0.jpeg",
     "static/media/kiss.avif": "/personal-project/static/media/kiss.91f8381637aa0a0a623c.avif",
+    "static/media/hayleydrink.avif": "/personal-project/static/media/hayleydrink.984e545962e29deff035.avif",
     "index.html": "/personal-project/index.html",
-    "main.e6c13ad2.css.map": "/personal-project/static/css/main.e6c13ad2.css.map",
-    "main.7f420c9c.js.map": "/personal-project/static/js/main.7f420c9c.js.map",
+    "main.c379d32a.css.map": "/personal-project/static/css/main.c379d32a.css.map",
+    "main.a4be0579.js.map": "/personal-project/static/js/main.a4be0579.js.map",
     "787.72d516c7.chunk.js.map": "/personal-project/static/js/787.72d516c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7f420c9c.js"
+    "static/css/main.c379d32a.css",
+    "static/js/main.a4be0579.js"
   ]
 }
