@@ -1,5 +1,5 @@
 export const page_level_data = {
-    "top_level_heading": "Hola Dinky!"
+    "top_level_heading": "Hello Hayley!"
 }
 
 
@@ -7,24 +7,29 @@ export const page_level_data = {
 export const questions = [
     {"questions_and_choices": [
     {
+        "questionText": "Where should we go first?",
+        "options":[{"choiceType": "Good Choice", "choiceText":"Sainsbury", "choiceImage": require("../images/sainsbury.png")},
+        {"choiceType": "Bad Choice", "choiceText": "Tesco", "choiceImage": require("../images/tesco.jpeg")}]
+    },
+    {
+        "questionText": "First date present?",
+        "options":[{"choiceType": "Good Choice", "choiceText":"Flowers", "choiceImage": require("../images/flowers.jpeg")},
+        {"choiceType": "Bad Choice", "choiceText": "Chocolates", "choiceImage": require("../images/chocolates.webp")}]
+    },
+    {
+        "questionText": "Where should we go for drinks?",
+        "options":[{"choiceType": "Bad Choice", "choiceText": "Hayley's recommendation", "choiceImage": require("../images/hayleydrink.avif")},
+        {"choiceType": "Good Choice", "choiceText":"Hayley's recommendation", "choiceImage": require("../images/hayleydrink.avif")}]
+    },
+    {
         "questionText": "Where should we go to Eat?",
-        "options":[{"choiceType": "Good Choice", "choiceText":"Fine Dine  🍽️", "choiceImage": require("../images/fine-dine.jpg")},
-        {"choiceType": "Bad Choice", "choiceText": "Cafe  ☕", "choiceImage": require("../images/cafe.jpg")}]
-    },
-    {
-        "questionText": "What should we Eat?",
-        "options":[{"choiceType": "Good Choice", "choiceText":"Vegetarian but my choice", "choiceImage": require("../images/mychoice.jpg")},
-        {"choiceType": "Bad Choice", "choiceText": "Vegetarian but your choice", "choiceImage": require("../images/yourchoice.jpg")}]
-    },
-    {
-        "questionText": "What should we drink?",
-        "options":[{"choiceType": "Bad Choice", "choiceText": "Non-Alcoholic Drink", "choiceImage": require("../images/nonalcohol.jpg")},
-        {"choiceType": "Good Choice", "choiceText":"Alcoholic Drink", "choiceImage": require("../images/alcohol.jpg")}]
+        "options":[{"choiceType": "Good Choice", "choiceText":"Go to a Restaurant 🍽️", "choiceImage": require("../images/fine-dine.jpg")},
+        {"choiceType": "Bad Choice", "choiceText": "BK/McDonald's ☕", "choiceImage": require("../images/cafe.jpg")}]
     },
     {
         "questionText": "Where should we go next?",
-        "options":[{"choiceType": "Good Choice", "choiceText":"Carter Road", "choiceImage": require("../images/carterroad.jpeg")},
-        {"choiceType": "Bad Choice", "choiceText": "Bandstand", "choiceImage": require("../images/bandstand.jpeg")}]
+        "options":[{"choiceType": "Good Choice", "choiceText":"Ball room", "choiceImage": require("../images/ballroom.jpeg")},
+        {"choiceType": "Bad Choice", "choiceText": "Karaoke", "choiceImage": require("../images/karaoke.webp")}]
     },
     {
         "questionText": "Farewell Gesture of our date",
